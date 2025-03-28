@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-web",
   "version": "0.1.0",
   "private": true,
@@ -8,15 +9,27 @@
     "@mui/icons-material": "^6.4.8",
     "@mui/material": "^6.4.8",
     "@mui/styled-engine-sc": "^6.4.6",
+=======
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+>>>>>>> a649691 (Initialize project using Create React App)
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "aos": "^2.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.16",
+=======
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+>>>>>>> a649691 (Initialize project using Create React App)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
