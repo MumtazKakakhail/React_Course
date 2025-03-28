@@ -1,0 +1,35 @@
+
+.homepage {
+display: flex;
+/* align-items: center; */
+flex-wrap: wrap;
+padding: 20px;
+gap: 20px;
+}
+.homepage h1 {
+  font-size: 2rem;
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+    
+}
+.homepage p {
+    font-size: 1rem;
+    color: #666;
+
+}
+.span {
+    font-weight: bold;
+    color: #333;
+}
+.name {
+    font-size: 1.5rem;
+    color: #721f01;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
