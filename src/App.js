@@ -1,20 +1,11 @@
-<<<<<<< HEAD
+
 // import logo from './logo.svg';
 import './App.css';
 import ResponsiveAppBar from './components/Navbar';
-import HomePage from './components/HomePage';
-=======
-import logo from './logo.svg';
 import './App.css';
->>>>>>> a649691 (Initialize project using Create React App)
-
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
-      <ResponsiveAppBar/>
-      <HomePage/>
-=======
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -29,7 +20,6 @@ function App() {
           Learn React
         </a>
       </header>
->>>>>>> a649691 (Initialize project using Create React App)
     </div>
   );
 }
