@@ -1,8 +1,8 @@
 import React from "react";
 import "./Header.css"
-import Logo from "./images/bg.png";
+import Logo from "./images/Logo.png";
 
-function header(){
+function Header(){
     return (
         <div className="header">
             <div className="logo-txt">
@@ -21,4 +21,4 @@ function header(){
     )
 }
 
-export default header;
+export default Header;
